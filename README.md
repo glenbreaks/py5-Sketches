@@ -1,7 +1,9 @@
 # py5-Sketches
 Sketches on organic generative creations
+
 ## Water Color And Lines
 Inspired by [StevesMakerspace](https://github.com/StevesMakerspace) water color and paper texture for p5.js.
+
 ### Examples
 <p float="left">
 <img width="49%" alt="sketch10" src="https://user-images.githubusercontent.com/108007246/201203984-188d02a3-75ff-4ddb-b2ab-6b93574314d4.png">
@@ -22,6 +24,7 @@ Fine-tuned the background to immitate paper.
 <img width="33%" alt="sketch09" src="https://user-images.githubusercontent.com/108007246/201329754-fc156b82-63b7-4fec-ab81-6d01537e0595.png">
 <img width="33%" alt="sketch10" src="https://user-images.githubusercontent.com/108007246/201329768-2c05075e-3bc6-4a62-ab24-65e57154c186.png">
 </p>
+
 ## TODO
 - object oriented restructuring
 
