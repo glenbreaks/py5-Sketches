@@ -20,9 +20,9 @@ Fine-tuned the background to immitate paper.
 ### Examples
 <img width="100%" alt="sketch08" src="https://user-images.githubusercontent.com/108007246/201329655-423514f2-8a4c-4d35-b76f-b1db3bb8669b.png">
 <p float="left">
-<img width="33%" alt="sketch03" src="https://user-images.githubusercontent.com/108007246/201329731-63840ebe-5963-4ec6-be58-6d477ae49347.png">
+<img width="32%" alt="sketch03" src="https://user-images.githubusercontent.com/108007246/201329731-63840ebe-5963-4ec6-be58-6d477ae49347.png">
 <img width="32%" alt="sketch09" src="https://user-images.githubusercontent.com/108007246/201329754-fc156b82-63b7-4fec-ab81-6d01537e0595.png">
-<img width="33%" alt="sketch10" src="https://user-images.githubusercontent.com/108007246/201329768-2c05075e-3bc6-4a62-ab24-65e57154c186.png">
+<img width="32%" alt="sketch10" src="https://user-images.githubusercontent.com/108007246/201329768-2c05075e-3bc6-4a62-ab24-65e57154c186.png">
 <img width="33%" alt="sketchgrid01" src="https://user-images.githubusercontent.com/108007246/201360488-ce16b593-c14b-4079-b384-1620012145e7.png">
 <img width="33%" alt="sketchgrid02" src="https://user-images.githubusercontent.com/108007246/201360505-86a58562-13f4-458a-be9b-1d211d28a6a0.png">
 
