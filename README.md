@@ -12,8 +12,10 @@ Inspired by [StevesMakerspace](https://github.com/StevesMakerspace) water color 
 <img width="32%" alt="sketch06" src="https://user-images.githubusercontent.com/108007246/201202601-a6edc3b2-0d00-457e-8d95-a2f23519114f.png">
 <img width="32%" alt="sketch09" src="https://user-images.githubusercontent.com/108007246/201204120-5e1c8591-20a2-492c-a840-b80a82b18665.png">
 </p>
+
 ## Water Color and Lines On Paper
 Fine-tuned the background to immitate paper.
+### Examples
 <img width="100%" alt="sketch08" src="https://user-images.githubusercontent.com/108007246/201329655-423514f2-8a4c-4d35-b76f-b1db3bb8669b.png">
 <p float="left">
 <img width="32%" alt="sketch03" src="https://user-images.githubusercontent.com/108007246/201329731-63840ebe-5963-4ec6-be58-6d477ae49347.png">
