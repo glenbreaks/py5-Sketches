@@ -8,9 +8,9 @@ Inspired by [StevesMakerspace](https://github.com/StevesMakerspace) water color 
 <img width="49%" alt="sketch08" src="https://user-images.githubusercontent.com/108007246/201204362-50c27253-dcd1-4406-8b32-2dfeee467e37.png">
 </p>
 <p float="left">
-<img width="32%" alt="sketch04" src="https://user-images.githubusercontent.com/108007246/201202316-c2552b8e-7550-4475-95e4-8426d6292736.png">
-<img width="32%" alt="sketch06" src="https://user-images.githubusercontent.com/108007246/201202601-a6edc3b2-0d00-457e-8d95-a2f23519114f.png">
-<img width="32%" alt="sketch09" src="https://user-images.githubusercontent.com/108007246/201204120-5e1c8591-20a2-492c-a840-b80a82b18665.png">
+<img width="33%" alt="sketch04" src="https://user-images.githubusercontent.com/108007246/201202316-c2552b8e-7550-4475-95e4-8426d6292736.png">
+<img width="33%" alt="sketch06" src="https://user-images.githubusercontent.com/108007246/201202601-a6edc3b2-0d00-457e-8d95-a2f23519114f.png">
+<img width="33%" alt="sketch09" src="https://user-images.githubusercontent.com/108007246/201204120-5e1c8591-20a2-492c-a840-b80a82b18665.png">
 </p>
 
 ## Water Color and Lines On Paper
@@ -18,9 +18,9 @@ Fine-tuned the background to immitate paper.
 ### Examples
 <img width="100%" alt="sketch08" src="https://user-images.githubusercontent.com/108007246/201329655-423514f2-8a4c-4d35-b76f-b1db3bb8669b.png">
 <p float="left">
-<img width="32%" alt="sketch03" src="https://user-images.githubusercontent.com/108007246/201329731-63840ebe-5963-4ec6-be58-6d477ae49347.png">
-<img width="32%" alt="sketch09" src="https://user-images.githubusercontent.com/108007246/201329754-fc156b82-63b7-4fec-ab81-6d01537e0595.png">
-<img width="32%" alt="sketch10" src="https://user-images.githubusercontent.com/108007246/201329768-2c05075e-3bc6-4a62-ab24-65e57154c186.png">
+<img width="33%" alt="sketch03" src="https://user-images.githubusercontent.com/108007246/201329731-63840ebe-5963-4ec6-be58-6d477ae49347.png">
+<img width="33%" alt="sketch09" src="https://user-images.githubusercontent.com/108007246/201329754-fc156b82-63b7-4fec-ab81-6d01537e0595.png">
+<img width="33%" alt="sketch10" src="https://user-images.githubusercontent.com/108007246/201329768-2c05075e-3bc6-4a62-ab24-65e57154c186.png">
 </p>
 ## TODO
 - object oriented restructuring
